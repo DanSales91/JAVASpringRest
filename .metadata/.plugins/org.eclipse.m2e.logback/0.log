@@ -424,3 +424,58 @@ Caused by: java.lang.Exception: File not found: C:\Users\Mushi\OneDrive - Educac
 2023-05-09 22:11:27,235 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2023-05-09 22:11:27,238 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-05-09 22:11:27,238 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mushi\OneDrive - Educacional\햞ea de Trabalho\Projetos JAVA\dslist\src\test\resources
+2023-05-09 22:29:51,325 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:29:51,327 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-09 22:29:51,360 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-09 22:29:51,363 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:29:51,364 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mushi\OneDrive - Educacional\햞ea de Trabalho\Projetos JAVA\dslist\src\test\resources
+2023-05-09 22:30:17,323 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:30:17,324 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-09 22:30:17,327 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-09 22:30:17,332 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:30:17,332 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mushi\OneDrive - Educacional\햞ea de Trabalho\Projetos JAVA\dslist\src\test\resources
+2023-05-09 22:30:25,525 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:30:25,528 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-09 22:30:25,532 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-09 22:30:25,537 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:30:25,537 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mushi\OneDrive - Educacional\햞ea de Trabalho\Projetos JAVA\dslist\src\test\resources
+2023-05-09 22:34:01,097 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:34:01,099 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-09 22:34:01,102 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-09 22:34:01,106 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:34:01,106 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mushi\OneDrive - Educacional\햞ea de Trabalho\Projetos JAVA\dslist\src\test\resources
+2023-05-09 22:34:04,105 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:34:04,107 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-09 22:34:04,110 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-09 22:34:04,112 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:34:04,113 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mushi\OneDrive - Educacional\햞ea de Trabalho\Projetos JAVA\dslist\src\test\resources
+2023-05-09 22:41:23,913 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:41:23,914 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-09 22:41:23,918 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-09 22:41:23,922 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:41:23,923 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mushi\OneDrive - Educacional\햞ea de Trabalho\Projetos JAVA\dslist\src\test\resources
+2023-05-09 22:41:40,436 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:41:40,437 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-09 22:41:40,441 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-09 22:41:40,445 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:41:40,445 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mushi\OneDrive - Educacional\햞ea de Trabalho\Projetos JAVA\dslist\src\test\resources
+2023-05-09 22:41:54,043 [Worker-104: Launching dslist - DslistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:41:54,044 [Worker-104: Launching dslist - DslistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-09 22:41:54,047 [Worker-104: Launching dslist - DslistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-09 22:41:54,050 [Worker-104: Launching dslist - DslistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:41:54,051 [Worker-104: Launching dslist - DslistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mushi\OneDrive - Educacional\햞ea de Trabalho\Projetos JAVA\dslist\src\test\resources
+2023-05-09 22:46:32,522 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:46:32,523 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-09 22:46:32,527 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-09 22:46:32,530 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:46:32,531 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mushi\OneDrive - Educacional\햞ea de Trabalho\Projetos JAVA\dslist\src\test\resources
+2023-05-09 22:50:14,267 [Worker-102: Launching dslist - DslistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:50:14,269 [Worker-102: Launching dslist - DslistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-09 22:50:14,273 [Worker-102: Launching dslist - DslistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-09 22:50:14,277 [Worker-102: Launching dslist - DslistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:50:14,277 [Worker-102: Launching dslist - DslistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mushi\OneDrive - Educacional\햞ea de Trabalho\Projetos JAVA\dslist\src\test\resources
+2023-05-09 22:53:25,578 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:53:25,580 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-09 22:53:25,585 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-09 22:53:25,587 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 22:53:25,587 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mushi\OneDrive - Educacional\햞ea de Trabalho\Projetos JAVA\dslist\src\test\resources
